@@ -1,6 +1,6 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Esta es una pequeña aplicación de colas/tickets en Node usando Sockets
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
